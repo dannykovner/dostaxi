@@ -1,0 +1,13 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index"
+  },
+  "description": "order taxi with simple phone call",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^5.0.6",
+    "socket.io": "^2.0.4"
+  }
+}
